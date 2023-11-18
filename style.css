@@ -1,6 +1,6 @@
 body
 {
-background-color: blanchedalmond;
+    background-image: image();
     color: rgb(136, 0, 255);
 }
 section  h1{
